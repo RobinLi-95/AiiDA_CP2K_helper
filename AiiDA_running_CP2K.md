@@ -187,11 +187,11 @@ $ verdi node graph generate <PK>
 <div style="text-align: center;"><img       src="./52579d82d8044754b0c48d9da3019d1f.png"   width="600" class="jop-noMdConv"></div>
 
 
-# Running your calculations
+# Running your own calculations
 
 ## Generating Mg (0001) surface with water bi-layer structrue
 
-* The first step is to generate the origina structure of the whole system using ase. The code is as follows (going to the Python ORM using `$ ipython3` command):
+* The first step is to generate the original structure of the whole system using ase. The code is as follows (going to the Python ORM using `$ ipython3` command):
   **Importing the package/function we need**
   ```{code-block} ipython
   In [1]: import ase
