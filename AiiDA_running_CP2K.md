@@ -10,7 +10,7 @@ AiiDA_running_CP2K
    $ verdi code setup --label cp2k --computer <name_of_computer> --remote-abs path <absolute_path_of_cp2k_code> --input-plugin cp2k --non-interactive
    ```
    
-* If the setup is sucessful, you should be able to see this new code when execute <span style="color:pink">verdi code list</span>.
+* If the setup is sucessful, you should be able to see this new code when execute `verdi code list`.
   
 
 ## Structure and Pseudopotential
