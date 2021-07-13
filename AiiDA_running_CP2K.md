@@ -184,7 +184,7 @@ $ verdi node graph generate <PK>
 
 * The command will write the provenance graph to a file named PK.dot.pdf. It should look like this:
 
-<div style="text-align: center;"><img       src="../_resources/52579d82d8044754b0c48d9da3019d1f.png"   width="600" class="jop-noMdConv"></div>
+<div style="text-align: center;"><img       src="./52579d82d8044754b0c48d9da3019d1f.png"   width="600" class="jop-noMdConv"></div>
 
 
 # Running your calculations
@@ -277,7 +277,7 @@ $ verdi node graph generate <PK>
 	```
 	
 	You will find a pattern of the generated structure from the top-view looks like this:
-	<div style="text-align: center;"><img       src="../_resources/126e482b607b41688aa0de0101bc976c.png"   width="450" class="jop-noMdConv"></div>
+	<div style="text-align: center;"><img       src="./126e482b607b41688aa0de0101bc976c.png"   width="450" class="jop-noMdConv"></div>
 	
 	**Outputting the built structure**
 	```{code-block} ipython
